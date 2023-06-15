@@ -1,0 +1,110 @@
+02/08/2023 20:19:33 Checking for existence of Branding Active Setup stub...
+02/08/2023 20:19:33 InternetExplorerBrandGUID didn't exist: Branding component not installed
+02/08/2023 20:19:33 Inf Version is set to "11,00,19041,1".
+02/08/2023 20:19:33 Branding conditions failed. Applying only default branding.
+
+02/08/2023 20:19:33     COM initialized with S_FALSE success code.
+
+02/08/2023 20:19:33 Branding Internet Explorer...
+02/08/2023 20:19:33 Command line is "/mode:isp /peruser".
+
+02/08/2023 20:19:33 Global branding settings are:
+02/08/2023 20:19:33     Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+02/08/2023 20:19:33     Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+02/08/2023 20:19:33     Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+02/08/2023 20:19:33 Done.
+
+02/08/2023 20:19:33     About to clear previous branding...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing migration of old settings...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing wininet setup...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing deletion of connection settings...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing zones HKCU settings...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing local machine policies and restrictions...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing current user policies and restrictions...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing legacy policies and restrictions...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing general customizations...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing Help->About customization...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing browser toolbar buttons...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing root certificates...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing default favorites and/or quick links...
+02/08/2023 20:19:33     Creating separate thread for processing default favorites...
+
+02/08/2023 20:19:33     COM initialized with S_OK success code.
+02/08/2023 20:19:33         Determining favorites attributes...
+02/08/2023 20:19:33             <Favorites> folder location is "C:\Users\HP\Favorites".
+02/08/2023 20:19:33         marked as Low Integrity,
+02/08/2023 20:19:33         Title     - "Bing",
+02/08/2023 20:19:33         URL       - "http://go.microsoft.com/fwlink/p/?LinkId=255142",
+02/08/2023 20:19:33         Icon file - "%ProgramFiles%\Internet Explorer\Images\bing.ico",
+02/08/2023 20:19:33         not marked IEAK created,
+02/08/2023 20:19:33         Done.
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing deletion of favorites and/or quick links...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing favorites...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing ordering of favorites...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing quick links...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing ordering of quick links...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing connection settings...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Processing TrustedPublisherLockdown restriction...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Creating feeds...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Creating start pages...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Creating search providers...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Installing Activities...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Installing Unattend Favorite bar items...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Installing Unattend Activites...
+02/08/2023 20:19:33     Done.
+
+02/08/2023 20:19:33     Refreshing browser settings...
+02/08/2023 20:19:33     Broadcasting "Windows settings change" to all top level windows...
+02/08/2023 20:19:33     Done.
+02/08/2023 20:19:33 Done.
+02/08/2023 20:19:33 Done.

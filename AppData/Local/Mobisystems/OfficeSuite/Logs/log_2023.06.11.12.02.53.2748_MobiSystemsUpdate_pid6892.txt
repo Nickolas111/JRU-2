@@ -1,0 +1,146 @@
+[12:02:53.274] [Log] Log started.
+[12:02:53.290] [AppConfiguration] Configuration loaded
+[12:02:53.290] [AppConfiguration] MSConnectApiUrl = https://connect.mobisystems.com/api
+[12:02:53.290] [AppConfiguration] MSApplicationsApiUrl = https://applications.mobisystems.com/events
+[12:02:53.290] [AppConfiguration] UpdatesFeedUrl = https://applications.mobisystems.com/update
+[12:02:53.290] [AppConfiguration] TagManagerUrl = https://applications.mobisystems.com
+[12:02:53.290] [AppConfiguration] CheckForUpdateInMinutes = 1440
+[12:02:53.290] [AppConfiguration] CheckForPromotionsInMinutes = 180
+[12:02:53.290] [AppConfiguration] SyncTagManagerInMinutes = 1440
+[12:02:53.290] [AppConfiguration] WriteDebugLogsInRelease = False
+[12:02:53.290] [AppConfiguration] ShowTestButtons = False
+[12:02:53.290] [AppConfiguration] ShowPromotionsInDebug = False
+[12:02:53.290] [AppConfiguration] ShowGoPremiumInDebug = False
+[12:02:53.290] [AppConfiguration] AutomationTestModeEnabled = False
+[12:02:53.290] [AppConfiguration] OfficeSuitePartnersUrl = https://www.mobisystems.com/mobile/activations.php
+[12:02:53.290] [AppConfiguration] EnableViewModeInDebug = False
+[12:02:53.290] [AppConfiguration] UwpGoPremiumFrequencyPeriodInMinutes = 1440
+[12:02:53.290] [AppConfiguration] ShowSplashScreen = True
+[12:02:53.290] [AppConfiguration] AutomationMode = Disabled
+[12:02:53.290] [AppConfiguration] ShowEulaInDebug = False
+[12:02:53.290] [AppConfiguration] TestMsAppData = 
+[12:02:53.290] [AppConfiguration] TipOfTheDayDialogDelayInMinutes = 1440
+[12:02:53.290] [AppConfiguration] PubNubSubscriberKey = sub-c-950ff8ec-95ee-11ea-8504-ea59babdc551
+[12:02:53.290] [AppConfiguration] AppLinksServiceUrl = https://www.mobisystems.com/api/app-links?locale={0}&app={1}&version={2}
+[12:02:53.290] [AppConfiguration] SendAnalyticsToTestProject = False
+[12:02:53.290] [AppConfiguration] PricingInfoServiceUrl = http://checkout.mobisystems.com/api/prices?
+[12:02:53.290] [AppConfiguration] CollaborationServerUrl = 
+[12:02:53.290] [AppConfiguration] FcmSenderId = 355730231187
+[12:02:53.290] [AppConfiguration] MobiDriveUploadSessionExpires = 30
+[12:02:53.337] [Settings] App settings changed.
+[12:02:53.353] [OfficeSuiteApp] Mutex 'Global\ 5E743582-25FD-47D3-B5ED-BD4C8EA92653' acquired: True
+[12:02:53.353] [OfficeSuiteApp] Instantiating OfficeSuite App.
+[12:02:53.806] [MSAppBase] App start parameters:
+[12:02:53.931] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[12:02:54.055] [RegistryStore] Failed reading InstallerAnalyticsId registry from Default registry view.
+[12:02:54.384] [MSAppBase] Started MobiSystemsUpdate Version: 6.0.42480.0
+[12:02:54.384] [MSAppBase] commonDotNet.dll Version: 6.0.42480.0
+[12:02:54.399] [MSAppBase] Video card Name: NVIDIA GeForce MX250 Driver version: 31.0.15.1801
+[12:02:54.508] [MSConnect] Init MSConect with device id: '93ecd013-3472-4220-bbdd-121fcb5a621a:com.mobisystems.windows'
+[12:02:54.633] [AutoUpdaterController] Auto update controller initialized.
+[12:02:54.665] [AutoUpdaterController] Starting auto update service.
+[12:02:54.712] [SilentUpdatePermissionChecker] Disable silent update. Latest Silent Update Info - Time found: 30.05.2023 13:56:09; Update version: 7.40.51058.
+[12:02:54.743] [AutoUpdaterController] Auto update service started.
+[12:02:54.743] [PipeServer] Pipe server created.
+[12:02:54.774] [OfficeSuiteApp] Start with Language: ru-RU
+[12:02:54.774] [MSConnect] Checking for features
+[12:02:54.774] [RegistryStore] Failed reading OfficeSuite registry from Default registry view.
+[12:02:54.946] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:54.962] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:54.962] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:55.633] [AutoUpdaterController] Checked for update: 11.06.2023 12:02:55.
+[12:02:55.633] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:55.727] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:55.789] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:55.789] [MSConnect] LogEvents
+[12:02:56.039] [WpfTagManagerSynchronizer] Tag manager synchronization started.
+[12:02:56.055] [RegistryStore] Failed reading instProvider registry from Registry64 registry view.
+[12:02:56.055] [RegistryStore] Failed reading instProvider registry from Registry32 registry view.
+[12:02:56.914] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:56.914] [AutoUpdaterService] Detected update version:7.40.51058
+[12:02:56.914] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[12:02:56.914] [AutoUpdaterController] Update available.
+[12:02:56.914] [AutoUpdaterController] Should install automatically: False
+[12:02:56.914] [AutoUpdaterController] Update type: automatic
+[12:02:56.914] [AutoUpdaterController] Silent update support: False
+[12:02:56.914] [AutoUpdaterController] Should install automatically: False
+[12:02:56.914] [AutoUpdaterController] Update type: automatic
+[12:02:56.914] [AutoUpdaterController] Silent update support: False
+[12:02:56.914] [AutoUpdaterController] Should install manually: True
+[12:02:56.914] [AutoUpdaterController] Update type: automatic
+[12:02:56.914] [AutoUpdaterController] Silent update support: False
+[12:02:56.945] [AutoUpdaterController] Remove toast notification.
+[12:02:56.945] [AutoUpdaterController] Show toast notification for update.
+[12:02:56.992] [AutoUpdaterController] Toast notification for update displayed.
+[12:02:57.586] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[12:02:57.586] [ABTestsParametersProvider] Permile: '54', CountryCode: 'ua', Referrer: ''
+[12:02:57.945] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[12:02:57.945] [ABTestsParametersProvider] Permile: '54', CountryCode: 'ua', Referrer: ''
+[12:02:58.165] [WpfTagManagerSynchronizer] Tag manager synchronization finished successfully.
+[12:02:58.165] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:31:56.271] [Settings] App settings changed.
+[10:31:56.272] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:31:56.273] [Settings] App settings changed.
+[10:31:56.273] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:00.031] [Settings] App settings changed.
+[10:32:00.031] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:00.161] [Settings] App settings changed.
+[10:32:00.161] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:16.242] [Settings] App settings changed.
+[10:32:16.242] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:16.242] [Settings] App settings changed.
+[10:32:16.242] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:16.277] [Settings] App settings changed.
+[10:32:16.277] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:16.370] [Settings] App settings changed.
+[10:32:16.370] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:24.577] [Settings] App settings changed.
+[10:32:24.577] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:24.643] [Settings] App settings changed.
+[10:32:24.644] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:27.633] [Settings] App settings changed.
+[10:32:27.633] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:27.633] [Settings] App settings changed.
+[10:32:27.633] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:42.571] [Settings] App settings changed.
+[10:32:42.572] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:42.572] [Settings] App settings changed.
+[10:32:42.572] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:42.606] [Settings] App settings changed.
+[10:32:42.606] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:32:42.730] [Settings] App settings changed.
+[10:32:42.731] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:34:36.306] [Settings] App settings changed.
+[10:34:36.306] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:34:36.307] [Settings] App settings changed.
+[10:34:36.307] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:34:39.712] [Settings] App settings changed.
+[10:34:39.712] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:34:39.712] [Settings] App settings changed.
+[10:34:39.712] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:19.393] [Settings] App settings changed.
+[10:35:19.393] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:19.393] [Settings] App settings changed.
+[10:35:19.393] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:19.428] [Settings] App settings changed.
+[10:35:19.429] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:19.554] [Settings] App settings changed.
+[10:35:19.554] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:24.805] [Settings] App settings changed.
+[10:35:24.805] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:24.902] [Settings] App settings changed.
+[10:35:24.902] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:27.811] [Settings] App settings changed.
+[10:35:27.811] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:35:27.951] [Settings] App settings changed.
+[10:35:27.951] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:36:08.403] [Settings] App settings changed.
+[10:36:08.403] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:36:08.403] [Settings] App settings changed.
+[10:36:08.403] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:36:08.442] [Settings] App settings changed.
+[10:36:08.442] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[10:36:08.533] [Settings] App settings changed.
+[10:36:08.533] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[11:24:01.023] [MSAppBase] Exiting
+[11:24:01.039] [AutoUpdaterController] Remove toast notification.

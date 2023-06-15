@@ -1,0 +1,4 @@
+2023-05-24 14:48:21.5988 INFO 	RegistryCalls. GetOEMCustomizationValue. EnableACE Value :0 
+2023-05-24 14:48:21.6335 INFO 	RegistryCalls. GetOEMCustomizationValue. EnableSTE Value :0 
+2023-05-24 14:48:21.8785 DEBUG 	RegistryCalls. EnableAutoEnhancePlayback. Done 
+2023-05-24 14:48:21.8785 DEBUG 	VideoCalls. SetAllVideoSettings. Writing Win OS video settings done: 

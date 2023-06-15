@@ -1,0 +1,22 @@
+2023-05-30 17:55:36.591 +03:00 [INF] 	SystrayAppContext. SystrayAppContext. SystemTrayForm. Initializing BST.
+2023-05-30 17:55:36.641 +03:00 [INF] 	PowerStartup. Startup beginning.
+2023-05-30 17:55:36.671 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Checking is Svc available
+2023-05-30 17:55:36.806 +03:00 [INF] 	PreferencesTable. GetPreferencesIdAsync. EnableTrayIcon Record not found
+2023-05-30 17:55:36.831 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Service is available
+2023-05-30 17:55:36.966 +03:00 [INF] 	PowerStartup. Doing PowerStartup.
+2023-05-30 17:55:37.301 +03:00 [INF] 	VideoStartup. Initializing Video Settings
+2023-05-30 17:55:37.651 +03:00 [INF] 	VideoStartup. Video startup is invoked
+2023-05-30 17:55:37.771 +03:00 [INF] 	VideoStartup. Initializing Video Settings set
+2023-05-30 17:55:37.881 +03:00 [INF] 	LoggingStartup. 
+----------------------------------------------Features--------------------------------------------------------
+AlwaysShowAdapter: Disabled
+Async Compute: Disabled
+Bezel: Enabled
+CustomThemesEnabled: Disabled
+DSANotification: Disabled
+LightMode: Disabled
+Survey: Disabled
+UseBetaSurvey: Disabled
+--------------------------------------------------------------------------------------------------------------
+
+2023-05-30 17:55:37.881 +03:00 [INF] 	PowerStartup. Startup finished.

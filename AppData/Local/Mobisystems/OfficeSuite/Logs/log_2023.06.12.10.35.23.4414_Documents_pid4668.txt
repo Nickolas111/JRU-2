@@ -1,0 +1,87 @@
+[10:35:23.446] [Log] Log started.
+[10:35:23.446] [AppConfiguration] Configuration loaded
+[10:35:23.446] [AppConfiguration] MSConnectApiUrl = https://connect.mobisystems.com/api
+[10:35:23.446] [AppConfiguration] MSApplicationsApiUrl = https://applications.mobisystems.com/events
+[10:35:23.446] [AppConfiguration] UpdatesFeedUrl = https://applications.mobisystems.com/update
+[10:35:23.446] [AppConfiguration] TagManagerUrl = https://applications.mobisystems.com
+[10:35:23.446] [AppConfiguration] CheckForUpdateInMinutes = 1440
+[10:35:23.447] [AppConfiguration] CheckForPromotionsInMinutes = 180
+[10:35:23.447] [AppConfiguration] SyncTagManagerInMinutes = 1440
+[10:35:23.447] [AppConfiguration] WriteDebugLogsInRelease = False
+[10:35:23.447] [AppConfiguration] ShowTestButtons = False
+[10:35:23.447] [AppConfiguration] ShowPromotionsInDebug = False
+[10:35:23.447] [AppConfiguration] ShowGoPremiumInDebug = False
+[10:35:23.447] [AppConfiguration] AutomationTestModeEnabled = False
+[10:35:23.447] [AppConfiguration] OfficeSuitePartnersUrl = https://www.mobisystems.com/mobile/activations.php
+[10:35:23.447] [AppConfiguration] EnableViewModeInDebug = False
+[10:35:23.447] [AppConfiguration] UwpGoPremiumFrequencyPeriodInMinutes = 1440
+[10:35:23.447] [AppConfiguration] ShowSplashScreen = True
+[10:35:23.447] [AppConfiguration] AutomationMode = Disabled
+[10:35:23.447] [AppConfiguration] ShowEulaInDebug = False
+[10:35:23.447] [AppConfiguration] TestMsAppData = 
+[10:35:23.447] [AppConfiguration] TipOfTheDayDialogDelayInMinutes = 1440
+[10:35:23.447] [AppConfiguration] PubNubSubscriberKey = sub-c-950ff8ec-95ee-11ea-8504-ea59babdc551
+[10:35:23.447] [AppConfiguration] AppLinksServiceUrl = https://www.mobisystems.com/api/app-links?locale={0}&app={1}&version={2}
+[10:35:23.447] [AppConfiguration] SendAnalyticsToTestProject = False
+[10:35:23.447] [AppConfiguration] PricingInfoServiceUrl = http://checkout.mobisystems.com/api/prices?
+[10:35:23.447] [AppConfiguration] CollaborationServerUrl = 
+[10:35:23.447] [AppConfiguration] FcmSenderId = 355730231187
+[10:35:23.447] [AppConfiguration] MobiDriveUploadSessionExpires = 30
+[10:35:23.450] [Settings] App settings changed.
+[10:35:23.865] [MSAppBase] Started Documents Version: 6.0.42480.0
+[10:35:23.865] [MSAppBase] commonDotNet.dll Version: 6.0.42480.0
+[10:35:23.882] [MSAppBase] Video card Name: NVIDIA GeForce MX250 Driver version: 31.0.15.1801
+[10:35:24.014] [MSConnect] Init MSConect with device id: '93ecd013-3472-4220-bbdd-121fcb5a621a:com.mobisystems.windows'
+[10:35:24.038] [WpfTrialAvailability] Trial availability changed
+[10:35:24.038] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[10:35:24.051] [RegistryStore] Failed reading InstallerAnalyticsId registry from Default registry view.
+[10:35:24.778] [RegistryStore] Failed reading instProvider registry from Registry64 registry view.
+[10:35:24.778] [RegistryStore] Failed reading instProvider registry from Registry32 registry view.
+[10:35:24.805] [Log] Starting update service C:\Program Files\MobiSystems\OfficeSuite\MobiSystemsUpdate.exe
+[10:35:24.807] [Log] Update service process id 9700 exited: False
+[10:35:26.400] [MSConnect] No need to check features now.
+[10:35:26.435] [MSConnect] No need to Log Events now.
+[10:35:26.650] [RegistryStore] Failed reading CustomBoxLocation registry from Registry64 registry view.
+[10:35:26.650] [RegistryStore] Failed reading CustomBoxLocation registry from Registry32 registry view.
+[10:35:26.650] [RegistryStore] Failed reading RootFolder registry from Registry64 registry view.
+[10:35:26.652] [RegistryStore] Failed reading RootFolder registry from Registry32 registry view.
+[10:35:26.653] [RegistryStore] Failed reading CustomBoxLocation registry from Registry64 registry view.
+[10:35:26.653] [RegistryStore] Failed reading CustomBoxLocation registry from Registry32 registry view.
+[10:35:26.653] [RegistryStore] Failed reading RootFolder registry from Registry64 registry view.
+[10:35:26.653] [RegistryStore] Failed reading RootFolder registry from Registry32 registry view.
+[10:35:26.809] [MSAppBase] App start parameters: E:\Звернення2 1545 12.06.23.docx
+[10:35:26.880] [C++] DocumentEditor setWordDocument
+[10:35:26.882] [C++] DocxImporter Importing will begin
+[10:35:26.958] [C++] EditorView setListener
+[10:35:26.958] [C++] EditorView setControllers
+[10:35:26.961] [WordBasePresenterViewModel] RefreshFromModel() with new model
+[10:35:26.972] [C++] EditorView createSpanPropertiesEditor(bool readOnlyStartPosProperties = 0)
+[10:35:27.121] [C++] Importing finished
+[10:35:27.127] [C++] EditorView goTo(int startPos = 0, int endPos = 0, bool stopContinuousEditIfCursorChanged = 0, int positionControlFlags = 2)
+[10:35:27.483] [C++] EditorView createParagraphPropertiesEditor(bool readOnlyStartPosProperties = 0, bool limitCheckedParagraphs = 0)
+[10:35:27.519] [C++] EditorView createSectionPropertiesEditor(bool readOnlyStartPosProperties = 1)
+[10:35:27.519] [C++] EditorView refreshSectionPropertiesEditor(boost::shared_ptr<SectionPropertiesEditor>& editor)
+[10:35:27.676] [C++] EditorView refreshSectionPropertiesEditor(boost::shared_ptr<SectionPropertiesEditor>& editor)
+[10:35:27.839] [RegistryStore] Failed reading instProvider registry from Registry64 registry view.
+[10:35:27.839] [RegistryStore] Failed reading instProvider registry from Registry32 registry view.
+[10:35:27.842] [RegistryStore] Failed reading instProvider registry from Registry64 registry view.
+[10:35:27.842] [RegistryStore] Failed reading instProvider registry from Registry32 registry view.
+[10:35:27.842] [PartnerActivator] Partner not found.
+[10:35:27.842] [RegistryStore] Failed reading ExchangeCode registry from Registry64 registry view.
+[10:35:27.842] [RegistryStore] Failed reading ExchangeCode registry from Registry32 registry view.
+[10:35:27.842] [RegistryStore] Failed reading AccountId registry from Registry64 registry view.
+[10:35:27.842] [RegistryStore] Failed reading AccountId registry from Registry32 registry view.
+[10:35:27.842] [RegistryStore] Failed reading OfficeSuite registry from Default registry view.
+[10:35:27.843] [RegistryStore] Failed reading PendingActivationKey registry from Registry64 registry view.
+[10:35:27.843] [RegistryStore] Failed reading PendingActivationKey registry from Registry32 registry view.
+[10:36:08.313] [C++] EditorView stopEditGraphic()
+[10:36:08.314] [C++] officelib: ShapesSheetEditor::clearShapeSelection
+[10:36:08.315] [C++] officelib: ShapesSheetEditor::makeShapeSelectionAtSheetIndex: sheetIndex = -1
+[10:36:08.315] [C++] officelib: ShapesSheetEditor::clearShapeSelection
+[10:36:08.315] [C++] officelib: ShapesSheetEditor::makeShapeSelectionAtSheetIndex: sheetIndex = -1
+[10:36:08.345] [WordBasePresenterViewModel] RefreshFromModel() with no model
+[10:36:08.345] [C++] EditorView setListener
+[10:36:08.346] [C++] EditorView setListener
+[10:36:08.346] [C++] EditorView endEditingSubDocument()
+[10:36:08.346] [C++] EditorView setControllers
+[10:36:08.421] [MSAppBase] Exiting

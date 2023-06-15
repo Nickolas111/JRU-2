@@ -1,0 +1,11 @@
+2023-06-05 09:21:52.6662 ERROR 	DataAccessService. GetConnectionString. Exception:Запрошенный доступ к реестру запрещен. 
+2023-06-05 09:21:52.7056 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:Значение не может быть неопределенным.
+Имя параметра: filename 
+2023-06-05 09:21:52.7056 ERROR 	DataAccessService. GetConnectionString. Exception:Запрошенный доступ к реестру запрещен. 
+2023-06-05 09:21:52.7056 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:Значение не может быть неопределенным.
+Имя параметра: filename 
+2023-06-05 09:21:52.7056 ERROR 	DataAccessService. GetConnectionString. Exception:Запрошенный доступ к реестру запрещен. 
+2023-06-05 09:21:52.7056 ERROR 	DataAccessService. DisplayDataRetrievalAsync. Exception:Значение не может быть неопределенным.
+Имя параметра: filename 
+2023-06-05 09:21:52.7210 ERROR 	DriverEscapeBuilder. InvokeDriverEscape->D3DKMTEscape failed. Escape Code::36 Error Code: InvalidParameters:0xC000000D 
+2023-06-05 09:21:53.1117 ERROR 	DisplayInfo. EnumDisplayDevicesAsync:По крайней мере в одном объекте должен быть реализован интерфейс IComparable. 

@@ -1,0 +1,73 @@
+[21:06:19.205] [Log] Log started.
+[21:06:19.221] [AppConfiguration] Configuration loaded
+[21:06:19.221] [AppConfiguration] MSConnectApiUrl = https://connect.mobisystems.com/api
+[21:06:19.221] [AppConfiguration] MSApplicationsApiUrl = https://applications.mobisystems.com/events
+[21:06:19.221] [AppConfiguration] UpdatesFeedUrl = https://applications.mobisystems.com/update
+[21:06:19.221] [AppConfiguration] TagManagerUrl = https://applications.mobisystems.com
+[21:06:19.221] [AppConfiguration] CheckForUpdateInMinutes = 1440
+[21:06:19.221] [AppConfiguration] CheckForPromotionsInMinutes = 180
+[21:06:19.221] [AppConfiguration] SyncTagManagerInMinutes = 1440
+[21:06:19.221] [AppConfiguration] WriteDebugLogsInRelease = False
+[21:06:19.221] [AppConfiguration] ShowTestButtons = False
+[21:06:19.221] [AppConfiguration] ShowPromotionsInDebug = False
+[21:06:19.221] [AppConfiguration] ShowGoPremiumInDebug = False
+[21:06:19.221] [AppConfiguration] AutomationTestModeEnabled = False
+[21:06:19.221] [AppConfiguration] OfficeSuitePartnersUrl = https://www.mobisystems.com/mobile/activations.php
+[21:06:19.221] [AppConfiguration] EnableViewModeInDebug = False
+[21:06:19.221] [AppConfiguration] UwpGoPremiumFrequencyPeriodInMinutes = 1440
+[21:06:19.221] [AppConfiguration] ShowSplashScreen = True
+[21:06:19.221] [AppConfiguration] AutomationMode = Disabled
+[21:06:19.221] [AppConfiguration] ShowEulaInDebug = False
+[21:06:19.221] [AppConfiguration] TestMsAppData = 
+[21:06:19.221] [AppConfiguration] TipOfTheDayDialogDelayInMinutes = 1440
+[21:06:19.221] [AppConfiguration] PubNubSubscriberKey = sub-c-950ff8ec-95ee-11ea-8504-ea59babdc551
+[21:06:19.221] [AppConfiguration] AppLinksServiceUrl = https://www.mobisystems.com/api/app-links?locale={0}&app={1}&version={2}
+[21:06:19.221] [AppConfiguration] SendAnalyticsToTestProject = False
+[21:06:19.221] [AppConfiguration] PricingInfoServiceUrl = http://checkout.mobisystems.com/api/prices?
+[21:06:19.221] [AppConfiguration] CollaborationServerUrl = 
+[21:06:19.221] [AppConfiguration] FcmSenderId = 355730231187
+[21:06:19.221] [AppConfiguration] MobiDriveUploadSessionExpires = 30
+[21:06:19.306] [Settings] App settings changed.
+[21:06:19.306] [OfficeSuiteApp] Mutex 'Global\ 5E743582-25FD-47D3-B5ED-BD4C8EA92653' acquired: True
+[21:06:19.306] [OfficeSuiteApp] Instantiating OfficeSuite App.
+[21:06:19.993] [MSAppBase] App start parameters:
+[21:06:20.055] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[21:06:20.104] [RegistryStore] Failed reading InstallerAnalyticsId registry from Default registry view.
+[21:06:20.414] [MSAppBase] Started MobiSystemsUpdate Version: 6.0.42480.0
+[21:06:20.414] [MSAppBase] commonDotNet.dll Version: 6.0.42480.0
+[21:06:20.435] [MSAppBase] Video card Name: NVIDIA GeForce MX250 Driver version: 31.0.15.1801
+[21:06:20.498] [MSConnect] Init MSConect with device id: '93ecd013-3472-4220-bbdd-121fcb5a621a:com.mobisystems.windows'
+[21:06:20.592] [AutoUpdaterController] Auto update controller initialized.
+[21:06:20.607] [AutoUpdaterController] Starting auto update service.
+[21:06:20.639] [AutoUpdaterController] Auto update service started.
+[21:06:20.652] [PipeServer] Pipe server created.
+[21:06:20.665] [OfficeSuiteApp] Start with Language: ru-RU
+[21:06:20.687] [MSConnect] No need to check features now.
+[21:06:20.722] [MSConnect] No need to Log Events now.
+[21:06:20.722] [WpfTagManagerSynchronizer] Tag manager synchronization started.
+[21:06:20.722] [RegistryStore] Failed reading instProvider registry from Registry64 registry view.
+[21:06:20.722] [RegistryStore] Failed reading instProvider registry from Registry32 registry view.
+[21:06:20.831] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[21:06:21.337] [AutoUpdaterController] Checked for update: 14.06.2023 21:06:21.
+[21:06:21.337] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[21:06:22.020] [AutoUpdaterService] Detected update version:7.50.51215
+[21:06:22.035] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage
+[21:06:22.035] [AutoUpdaterController] Update available.
+[21:06:22.035] [AutoUpdaterController] Should install automatically: False
+[21:06:22.035] [AutoUpdaterController] Update type: automatic
+[21:06:22.035] [AutoUpdaterController] Silent update support: False
+[21:06:22.035] [AutoUpdaterController] Should install automatically: False
+[21:06:22.035] [AutoUpdaterController] Update type: automatic
+[21:06:22.035] [AutoUpdaterController] Silent update support: False
+[21:06:22.035] [AutoUpdaterController] Should install manually: True
+[21:06:22.035] [AutoUpdaterController] Update type: automatic
+[21:06:22.035] [AutoUpdaterController] Silent update support: False
+[21:06:22.051] [AutoUpdaterController] Remove toast notification.
+[21:06:22.051] [AutoUpdaterController] Show toast notification for update.
+[21:06:22.098] [AutoUpdaterController] Toast notification for update displayed.
+[21:06:22.386] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[21:06:22.386] [ABTestsParametersProvider] Permile: '54', CountryCode: 'ua', Referrer: ''
+[21:06:22.926] [RegistryStore] Failed reading Referrer registry from Default registry view.
+[21:06:22.926] [ABTestsParametersProvider] Permile: '54', CountryCode: 'ua', Referrer: ''
+[21:06:23.162] [WpfTagManagerSynchronizer] Tag manager synchronization finished successfully.
+[21:06:23.162] [OfficeSuiteApp] Settings.Display.UserLanguage changed: UserLanguage

@@ -1,0 +1,3 @@
+2023-05-31 14:32:25.227 +03:00 [ERR] 	DesktopBridgeService. Error getting the data. Failed request command: UI_SUSPENDED
+2023-05-31 14:32:25.227 +03:00 [ERR] 	DesktopBridgeService. Response status is: Failure
+2023-05-31 14:32:25.227 +03:00 [ERR] 	DesktopBridgeRequest. DesktopBridgeUtil. DesktopBridgeRequestException. Call UI_SUSPENDED.failed to send desktop bridge message Exception:Request UI_SUSPENDED failed with status Failure

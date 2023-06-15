@@ -1,0 +1,52 @@
+Enumerate begin
+Mapper.RegisterDatabases
+Mapper.Begin
+ACDW_GetHostAdapterCount
+Mapper.GetDebugLog
+ACDW_GetTidCount
+SOFTWARE\ashampoo\driver2\enumconfig
+SOFTWARE\ashampoo\driver2ext\busdriverconfig
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetTidCount
+SOFTWARE\ashampoo\driver2\enumconfig
+SOFTWARE\ashampoo\driver2ext\busdriverconfig
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetTidCount
+SOFTWARE\ashampoo\driver2\enumconfig
+SOFTWARE\ashampoo\driver2ext\busdriverconfig
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetType
+ACDW_GetId(0,0):
+Mapper.LookupParamsAndDriver
+Driver.m_pInit
+new CCDWriter_Impl
+ACDW_GetId(1,0):
+Mapper.LookupParamsAndDriver
+Driver.m_pInit
+new CCDWriter_Impl
+ACDW_GetId(2,0):
+Mapper.LookupParamsAndDriver
+Driver.m_pInit
+new CCDWriter_Impl
+Mapper.End
+return

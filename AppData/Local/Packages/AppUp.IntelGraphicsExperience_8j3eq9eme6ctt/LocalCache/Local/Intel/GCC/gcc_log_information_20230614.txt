@@ -1,0 +1,66 @@
+2023-06-14 16:50:12.118 +03:00 [INF] 	SystrayAppContext. SystrayAppContext. SystemTrayForm. Initializing BST.
+2023-06-14 16:50:12.181 +03:00 [INF] 	PowerStartup. Startup beginning.
+2023-06-14 16:50:12.341 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Checking is Svc available
+2023-06-14 16:50:12.552 +03:00 [INF] 	PreferencesTable. GetPreferencesIdAsync. EnableTrayIcon Record not found
+2023-06-14 16:50:12.592 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Service is available
+2023-06-14 16:50:12.781 +03:00 [INF] 	PowerStartup. Doing PowerStartup.
+2023-06-14 16:50:13.236 +03:00 [INF] 	VideoStartup. Initializing Video Settings
+2023-06-14 16:50:13.636 +03:00 [INF] 	VideoStartup. Video startup is invoked
+2023-06-14 16:50:13.781 +03:00 [INF] 	VideoStartup. Initializing Video Settings set
+2023-06-14 16:50:13.891 +03:00 [INF] 	LoggingStartup. 
+----------------------------------------------Features--------------------------------------------------------
+AlwaysShowAdapter: Disabled
+Async Compute: Disabled
+Bezel: Enabled
+CustomThemesEnabled: Disabled
+DSANotification: Disabled
+LightMode: Disabled
+Survey: Disabled
+UseBetaSurvey: Disabled
+--------------------------------------------------------------------------------------------------------------
+
+2023-06-14 16:50:13.891 +03:00 [INF] 	PowerStartup. Startup finished.
+2023-06-14 17:00:56.469 +03:00 [INF] 	SystrayAppContext. SystrayAppContext. SystemTrayForm. Initializing BST.
+2023-06-14 17:00:56.589 +03:00 [INF] 	PowerStartup. Startup beginning.
+2023-06-14 17:00:56.857 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Checking is Svc available
+2023-06-14 17:00:57.358 +03:00 [INF] 	PreferencesTable. GetPreferencesIdAsync. EnableTrayIcon Record not found
+2023-06-14 17:00:57.712 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Service is available
+2023-06-14 17:00:57.961 +03:00 [INF] 	PowerStartup. Doing PowerStartup.
+2023-06-14 17:00:58.419 +03:00 [INF] 	VideoStartup. Initializing Video Settings
+2023-06-14 17:00:58.925 +03:00 [INF] 	VideoStartup. Video startup is invoked
+2023-06-14 17:00:59.154 +03:00 [INF] 	VideoStartup. Initializing Video Settings set
+2023-06-14 17:00:59.296 +03:00 [INF] 	LoggingStartup. 
+----------------------------------------------Features--------------------------------------------------------
+AlwaysShowAdapter: Disabled
+Async Compute: Disabled
+Bezel: Enabled
+CustomThemesEnabled: Disabled
+DSANotification: Disabled
+LightMode: Disabled
+Survey: Disabled
+UseBetaSurvey: Disabled
+--------------------------------------------------------------------------------------------------------------
+
+2023-06-14 17:00:59.296 +03:00 [INF] 	PowerStartup. Startup finished.
+2023-06-14 19:24:06.168 +03:00 [INF] 	SystrayAppContext. SystrayAppContext. SystemTrayForm. Initializing BST.
+2023-06-14 19:24:06.297 +03:00 [INF] 	PowerStartup. Startup beginning.
+2023-06-14 19:24:06.598 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Checking is Svc available
+2023-06-14 19:24:07.172 +03:00 [INF] 	PreferencesTable. GetPreferencesIdAsync. EnableTrayIcon Record not found
+2023-06-14 19:24:07.478 +03:00 [INF] 	BaseServiceHandler. ServiceAvailability. Service is available
+2023-06-14 19:24:07.619 +03:00 [INF] 	PowerStartup. Doing PowerStartup.
+2023-06-14 19:24:07.989 +03:00 [INF] 	VideoStartup. Initializing Video Settings
+2023-06-14 19:24:08.361 +03:00 [INF] 	VideoStartup. Video startup is invoked
+2023-06-14 19:24:08.489 +03:00 [INF] 	VideoStartup. Initializing Video Settings set
+2023-06-14 19:24:08.589 +03:00 [INF] 	LoggingStartup. 
+----------------------------------------------Features--------------------------------------------------------
+AlwaysShowAdapter: Disabled
+Async Compute: Disabled
+Bezel: Enabled
+CustomThemesEnabled: Disabled
+DSANotification: Disabled
+LightMode: Disabled
+Survey: Disabled
+UseBetaSurvey: Disabled
+--------------------------------------------------------------------------------------------------------------
+
+2023-06-14 19:24:08.589 +03:00 [INF] 	PowerStartup. Startup finished.

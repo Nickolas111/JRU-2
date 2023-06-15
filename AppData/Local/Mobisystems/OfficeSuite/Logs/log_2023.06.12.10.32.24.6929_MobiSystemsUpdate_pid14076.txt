@@ -1,0 +1,38 @@
+[10:32:24.697] [Log] Log started.
+[10:32:24.700] [AppConfiguration] Configuration loaded
+[10:32:24.700] [AppConfiguration] MSConnectApiUrl = https://connect.mobisystems.com/api
+[10:32:24.700] [AppConfiguration] MSApplicationsApiUrl = https://applications.mobisystems.com/events
+[10:32:24.700] [AppConfiguration] UpdatesFeedUrl = https://applications.mobisystems.com/update
+[10:32:24.700] [AppConfiguration] TagManagerUrl = https://applications.mobisystems.com
+[10:32:24.700] [AppConfiguration] CheckForUpdateInMinutes = 1440
+[10:32:24.701] [AppConfiguration] CheckForPromotionsInMinutes = 180
+[10:32:24.701] [AppConfiguration] SyncTagManagerInMinutes = 1440
+[10:32:24.701] [AppConfiguration] WriteDebugLogsInRelease = False
+[10:32:24.701] [AppConfiguration] ShowTestButtons = False
+[10:32:24.701] [AppConfiguration] ShowPromotionsInDebug = False
+[10:32:24.701] [AppConfiguration] ShowGoPremiumInDebug = False
+[10:32:24.701] [AppConfiguration] AutomationTestModeEnabled = False
+[10:32:24.701] [AppConfiguration] OfficeSuitePartnersUrl = https://www.mobisystems.com/mobile/activations.php
+[10:32:24.701] [AppConfiguration] EnableViewModeInDebug = False
+[10:32:24.701] [AppConfiguration] UwpGoPremiumFrequencyPeriodInMinutes = 1440
+[10:32:24.701] [AppConfiguration] ShowSplashScreen = True
+[10:32:24.701] [AppConfiguration] AutomationMode = Disabled
+[10:32:24.701] [AppConfiguration] ShowEulaInDebug = False
+[10:32:24.701] [AppConfiguration] TestMsAppData = 
+[10:32:24.701] [AppConfiguration] TipOfTheDayDialogDelayInMinutes = 1440
+[10:32:24.701] [AppConfiguration] PubNubSubscriberKey = sub-c-950ff8ec-95ee-11ea-8504-ea59babdc551
+[10:32:24.701] [AppConfiguration] AppLinksServiceUrl = https://www.mobisystems.com/api/app-links?locale={0}&app={1}&version={2}
+[10:32:24.701] [AppConfiguration] SendAnalyticsToTestProject = False
+[10:32:24.701] [AppConfiguration] PricingInfoServiceUrl = http://checkout.mobisystems.com/api/prices?
+[10:32:24.701] [AppConfiguration] CollaborationServerUrl = 
+[10:32:24.701] [AppConfiguration] FcmSenderId = 355730231187
+[10:32:24.701] [AppConfiguration] MobiDriveUploadSessionExpires = 30
+[10:32:24.712] [Settings] App settings changed.
+[10:32:24.712] [OfficeSuiteApp] Mutex 'Global\ 5E743582-25FD-47D3-B5ED-BD4C8EA92653' acquired: False
+[10:32:24.712] [OfficeSuiteApp] Instantiating OfficeSuite App.
+[10:32:24.870] [MSAppBase] App start parameters:
+[10:32:24.923] [OfficeSuiteApp] Already running.
+[10:32:25.123] [MSAppBase] Started MobiSystemsUpdate Version: 6.0.42480.0
+[10:32:25.124] [MSAppBase] commonDotNet.dll Version: 6.0.42480.0
+[10:32:25.145] [MSAppBase] Video card Name: NVIDIA GeForce MX250 Driver version: 31.0.15.1801
+[10:32:25.145] [MSAppBase] Exiting

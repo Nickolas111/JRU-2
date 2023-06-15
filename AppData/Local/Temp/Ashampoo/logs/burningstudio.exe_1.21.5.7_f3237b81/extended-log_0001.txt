@@ -1,0 +1,20 @@
+19:49:36 [INFO] : Controlled folder access is deactivated
+19:49:36 [INFO] : loading skin in path  C:\Program Files (x86)\Ashampoo\Ashampoo Burning Studio FREE\skins\default\default\
+19:49:36 [INFO] : skin found: Burning Studio FREE Color: -1
+19:49:36 [INFO] : adding Skin: Burning Studio FREE guid: 06289E88-7D40-461F-8DA6-FE046522B397
+19:49:36 [INFO] : audio device found : РќР°СѓС€РЅРёРєРё (Realtek(R) Audio)
+19:49:36 [INFO] : <handlecdwriters begin-time="2023-06-07 16:49:36" end-time="2023-06-07 16:49:36" />
+
+19:49:37 [INFO] initialisation-times: initialization time: 1031 / enumeration time: 129
+19:49:37 [INFO] : <logfile-info id="logfiles" />
+
+19:49:37 [INFO] : MainWizard - Switching to page id: 0
+19:49:37 [INFO] : Virtual monitor resolution: 1536x864 - dpi:120 - resulted Minsize: 1194x861 - Sugg. Size: 1194x861 - resolutionOk: 1 - showquickstart: 1
+19:49:38 [INFO] : <logfile-info id="logfiles" />
+
+19:49:38 [INFO] : MainWizard - Switching to page id: 0
+19:49:38 [INFO] Actual page Title: : 
+19:49:38 [INFO] : 
+19:50:11 [INFO] messsagebox: No CD/DVD/BD drive found. Press Ok for further informations.
+19:50:11 [INFO] : 
+19:50:19 [INFO] : no drives found by enumeration: 1 no drives in system
